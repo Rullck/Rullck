@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @Rullck
+- 👋 Olá, eu sou @Davi
 - 👀 Atualmente estou cursando Analise e desenvolvimento de sistemas
 - 📫 Meu e-mail é rullckm@gmail.com
 
